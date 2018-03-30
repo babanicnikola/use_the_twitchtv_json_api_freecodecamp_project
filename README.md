@@ -1,2 +1,2 @@
-# use_the_twitchtv_json_api_freecodecamp_project
+# Preview: https://codepen.io/babanic/full/qxKzzZ/
 Project "Use the Twitchtv JSON API" on freecodecamp. 
