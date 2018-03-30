@@ -1,0 +1,74 @@
+.img-responsive {
+	margin: 0 auto;
+}
+
+.container {
+	margin-top: 0px;
+	text-align: center;
+	text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.on {
+	border: 1px solid hsl(5, 50%, 70%);
+	background-color: #002B36;
+	margin-top: 10px;
+	margin-bot: 10px;
+	color: #B57D23;
+	text-decoration: none;
+}
+
+.on:hover {
+    background-color: #0084b4; 
+    color: white;
+	text-decoration: none;
+}
+
+#titl {
+	font-size: 20px;
+	font-style: bold;
+	color: #186C10;
+	text-decoration: none;
+}
+.off {
+	border: 3px solid hsl(5, 50%, 70%);
+	background-color: #faa3ff;
+	color: #ff0000;
+	margin-top: 10px;
+	margin-bot: 10px;
+}
+
+.off:hover {
+	background-color: #ba1010; 
+    color: white;
+	cursor: not-allowed;
+}
+#on {
+	color: #18FC10;
+	background-color: black;
+	cursor: pointer;
+}
+#off {
+	color: red;
+	cursor: pointer;
+}
+#all {
+	color: blue;
+	cursor: pointer;
+}
+.streamStatus {
+	text-align: center;
+	border-top: 2px;
+	background-color: black;
+}
